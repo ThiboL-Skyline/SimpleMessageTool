@@ -1,0 +1,7 @@
+.ENV
+client.crt
+client.csr
+client.key
+rootCA.crt
+rootCA.srl
+rootCA.key
