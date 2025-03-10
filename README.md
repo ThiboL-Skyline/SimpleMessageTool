@@ -7,9 +7,9 @@ SimpleMessageTool is a Python-based MQTT client that connects to an **Azure Even
 Before running the script, configure the environment variables in a **`.env`** file:
 
 ```
-BROKER=iot-mqtt-broker.westeurope-1.ts.eventgrid.azure.net
-PORT=8883
-CLIENT_ID=python-mqtt-client
+BROKER=ip-adress of broker
+PORT= Your port
+CLIENT_ID=Client-id
 TOPIC=sensor/temperature
 CERT_PATH=client.crt
 KEY_PATH=client.key
