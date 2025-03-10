@@ -44,8 +44,3 @@ This will send a random temperature reading **between 5°C and 31°C** to the MQ
 ## 🔧 Troubleshooting
 - If you get **certificate errors**, ensure that the **client.crt** and **client.key** files are valid.
 - If the connection fails, check your **Azure Event Grid MQTT permissions**.
-- Use `git branch` and `git push -u origin main` if you have trouble pushing to GitHub.
-
-## 📜 License
-This project is licensed under the MIT License.
-
